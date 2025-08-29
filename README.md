@@ -1,6 +1,8 @@
 # Problem Set 1
 
-## Instructions:
+To see the instructions for this assignment, download the files and open "ps1.html" in your web browser, such as Firefox, Chrome, Edge, or Safari.
+
+## Additional Notes:
 The guide has all the basic instructions, but here are some additional guidelines.
 - [ ] Code for Problem 1 should be written in the file called `Karel_Newspaper.py` included in the repository. Please do not forget to fill out the meta-data information in the comments at the top of the template!
 	- Your program only has to work for a single world in this case, which is loaded by default.

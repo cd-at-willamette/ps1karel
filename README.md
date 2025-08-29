@@ -1,6 +1,6 @@
 # Problem Set 1
 
-To see the instructions for this assignment, download the files and open "ps1.html" in your web browser, such as Firefox, Chrome, Edge, or Safari.
+To see the instructions for this assignment, download the files and open "ps1.html" in your web browser, such as Firefox, Chrome, Edge, or Safari. Double-clicking the file should work.
 
 ## Additional Notes:
 The guide has all the basic instructions, but here are some additional guidelines.
